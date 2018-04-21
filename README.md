@@ -2,9 +2,12 @@
 
 ## Description
 
-This is a simple application based on the package [dxfgrabber 1.0.0](). When drawing in AutoCAD, we often need to draw a lot of points with a number or name attached besides it. So pyCAD is to find the coordinates of those points and assign the nearest text to those points as their number or name. So finally, we will get the output as follow:
+This is a simple application based on the package [dxfgrabber 1.0.0](https://github.com/mozman/dxfgrabber/blob/master/docs/index.rst). When drawing in AutoCAD, we often need to draw a lot of points with a number or name attached besides it. So pyCAD is to find the coordinates of those points and assign the nearest text to those points as their number or name. So finally, we will get the output as follow:
+
 P01 (x01,y01,z01)
+
 P02 (x02,y02,z02)
+
 ......
 
 ## Typical Usage
